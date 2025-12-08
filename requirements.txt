@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+numpy
+pillow
+
+langchain
+langchain-community
+langchain-openai
+openai
+
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
